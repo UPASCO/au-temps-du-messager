@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Au temps du messager</title>
+  <meta name="description" content="Site officiel de la série « Au temps du messager ».">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Au temps du messager : la série">
+  <meta property="og:description" content="[À COMPLÉTER] Accroche de la série, reprise lors des partages sur les réseaux sociaux.">
+  <meta property="og:image" content="assets/couvertures/tome-1.jpg">
+  <meta property="og:locale" content="fr_FR">
+  <link rel="stylesheet" href="style.css">
+  <!-- Données structurées : aident Google à comprendre qu'il s'agit d'une série de livres -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BookSeries",
+    "name": "Au temps du messager",
+    "inLanguage": "fr",
+    "author": { "@type": "Person", "name": "[NOM DE L'AUTEUR]" }
+  }
+  </script>
+</head>
+<body>
+  <header class="entete">
+    <a class="logo" href="#accueil">Au temps du messager</a>
+    <nav aria-label="Navigation principale">
+      <a href="#serie">La série</a>
+      <a href="#tomes">Les tomes</a>
+      <a href="#auteur">L'auteur</a>
+      <a href="#contact">Contact</a>
+      <a class="nav-achat" href="#tomes">Acheter les livres</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="accueil" class="hero">
+      <p class="surtitre">Une série en plusieurs tomes</p>
+      <h1>Au temps du messager</h1>
+      <!-- SUPPOSITION : accroche provisoire, à remplacer par celle de Nadir -->
+      <p class="accroche">[À COMPLÉTER] Une phrase d'accroche qui donne envie d'ouvrir le premier tome.</p>
+      <div class="actions">
+        <!-- LIEN AMAZON TOME 1 à coller dans href -->
+        <a class="bouton" href="#LIEN-AMAZON-TOME-1" target="_blank" rel="noopener sponsored">Commencer avec le tome 1</a>
+        <a class="bouton bouton-secondaire" href="#tomes">Voir tous les tomes</a>
+      </div>
+    </section>
+
+    <section id="serie" class="bloc">
+      <h2>La série</h2>
+      <p>[À COMPLÉTER] Présentation générale : l'univers, l'époque, les personnages principaux, le public visé.</p>
+    </section>
+
+    <section id="tomes" class="bloc">
+      <h2>Les tomes</h2>
+      <p class="intro-tomes">Chaque tome est disponible sur Amazon. Pour découvrir l'histoire, commencez par le tome 1.</p>
+      <div class="grille-tomes">
+        <!-- Copier ce bloc <article> pour chaque tome. Couverture dans assets/couvertures/ -->
+        <article class="tome">
+          <div class="couverture" aria-hidden="true">Tome 1</div>
+          <h3>Tome 1 : [Titre à compléter]</h3>
+          <p class="meta">[Année de parution]</p>
+          <p>[À COMPLÉTER] Résumé du tome 1.</p>
+          <a class="bouton bouton-achat" href="#LIEN-AMAZON-TOME-1" target="_blank" rel="noopener sponsored" aria-label="Acheter le tome 1 sur Amazon">Acheter sur Amazon</a>
+          <p class="formats">[Broché · Kindle : à préciser]</p>
+        </article>
+        <article class="tome">
+          <div class="couverture" aria-hidden="true">Tome 2</div>
+          <h3>Tome 2 : [Titre à compléter]</h3>
+          <p class="meta">[Année de parution]</p>
+          <p>[À COMPLÉTER] Résumé du tome 2.</p>
+          <a class="bouton bouton-achat" href="#LIEN-AMAZON-TOME-2" target="_blank" rel="noopener sponsored" aria-label="Acheter le tome 2 sur Amazon">Acheter sur Amazon</a>
+          <p class="formats">[Broché · Kindle : à préciser]</p>
+        </article>
+        <article class="tome">
+          <div class="couverture" aria-hidden="true">Tome 3</div>
+          <h3>Tome 3 : [Titre à compléter]</h3>
+          <p class="meta">[Année de parution]</p>
+          <p>[À COMPLÉTER] Résumé du tome 3.</p>
+          <a class="bouton bouton-achat" href="#LIEN-AMAZON-TOME-3" target="_blank" rel="noopener sponsored" aria-label="Acheter le tome 3 sur Amazon">Acheter sur Amazon</a>
+          <p class="formats">[Broché · Kindle : à préciser]</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="auteur" class="bloc">
+      <h2>L'auteur</h2>
+      <p>[À COMPLÉTER] Quelques lignes de présentation.</p>
+    </section>
+
+    <section id="acheter" class="bloc bloc-achat">
+      <h2>Prêt à entrer dans l'histoire ?</h2>
+      <p>Le tome 1 vous attend sur Amazon, en version papier et numérique.</p>
+      <a class="bouton" href="#LIEN-AMAZON-TOME-1" target="_blank" rel="noopener sponsored">Acheter le tome 1 sur Amazon</a>
+    </section>
+
+    <section id="contact" class="bloc">
+      <h2>Contact</h2>
+      <p>[À COMPLÉTER] Adresse de contact, réseaux sociaux, où acheter les livres.</p>
+    </section>
+  </main>
+
+  <footer class="pied">
+    <p>© <span id="annee">2026</span> Au temps du messager. Tous droits réservés.</p>
+    <!-- Si les liens Amazon sont des liens affiliés (Amazon Partenaires), cette mention est obligatoire : -->
+    <!-- <p class="mention">En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises.</p> -->
+  </footer>
+  <script>document.getElementById('annee').textContent = new Date().getFullYear();</script>
+</body>
+</html>
