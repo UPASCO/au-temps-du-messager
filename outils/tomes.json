@@ -1,0 +1,309 @@
+{
+ "tomes": [
+  {
+   "num": 1,
+   "titre": "L'Enfant de La Mecque",
+   "sous_titre": "De l'année de l'Éléphant à la veille de la Révélation",
+   "periode": "vers 570 à 610",
+   "chapitres": [
+    "L'année de l'Éléphant",
+    "L'orphelin de La Mecque",
+    "Le berger des collines",
+    "La caravane du Nord",
+    "La guerre et le pacte",
+    "La caravane de Khadîja",
+    "Une maison bénie",
+    "Les fils du cœur",
+    "La Pierre et l'arbitrage",
+    "La montagne de lumière"
+   ],
+   "couleur": "#7A2710",
+   "sombre": "#33130A",
+   "visuel": "une armée et son éléphant devant La Mecque, sous une nuée d'oiseaux, à l'aube",
+   "pages": [
+    {
+     "page": 14,
+     "img": "assets/planches/t1-p07.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 17,
+     "img": "assets/planches/t1-p10.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 50,
+     "img": "assets/planches/t1-p43.webp",
+     "w": 589,
+     "h": 834
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "titre": "La Révélation",
+   "sous_titre": "De la grotte de Hirâ' à l'exil d'Abyssinie",
+   "periode": "610 à 615",
+   "chapitres": [
+    "Le mot",
+    "Le silence",
+    "Les premiers",
+    "Le secret",
+    "La colline de Safâ",
+    "Sorcier ou poète ?",
+    "« Ahad ! »",
+    "La mer",
+    "Les cadeaux de Quraysh",
+    "Le roi juste"
+   ],
+   "couleur": "#111C4E",
+   "sombre": "#080D2A",
+   "visuel": "Jamal, Sami et Leyna lèvent la tête vers une montagne, sous un ciel étoilé",
+   "pages": [
+    {
+     "page": 8,
+     "img": "assets/planches/t2-p01.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 28,
+     "img": "assets/planches/t2-p21.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 45,
+     "img": "assets/planches/t2-p38.webp",
+     "w": 589,
+     "h": 834
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "titre": "Les Années d'épreuve",
+   "sous_titre": "Du vallon d'Abû Tâlib à la nuit du Voyage",
+   "periode": "615 à 621",
+   "chapitres": [
+    "L'arc de Hamza",
+    "'Umar",
+    "Le parchemin",
+    "La lune",
+    "Les termites",
+    "L'année de la tristesse",
+    "Tâ'if",
+    "Une ville du nord",
+    "Le Voyage nocturne"
+   ],
+   "couleur": "#43195A",
+   "sombre": "#1B0A26",
+   "visuel": "la lune fendue en deux au-dessus de La Mecque, la nuit",
+   "pages": [
+    {
+     "page": 8,
+     "img": "assets/planches/t3-p01.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 10,
+     "img": "assets/planches/t3-p03.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 24,
+     "img": "assets/planches/t3-p17.webp",
+     "w": 589,
+     "h": 834
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "titre": "L'Hégire",
+   "sous_titre": "Du col de 'Aqaba à la première mosquée de Médine",
+   "periode": "621 à 622",
+   "chapitres": [
+    "Les douze",
+    "Le serment de la nuit",
+    "Les départs",
+    "Le complot",
+    "La grotte",
+    "La route",
+    "L'arrivée",
+    "La mosquée",
+    "Les frères",
+    "L'appel"
+   ],
+   "couleur": "#0E4A38",
+   "sombre": "#062219",
+   "visuel": "une grotte fermée par une toile d'araignée, deux colombes, et Sami qui s'éloigne au couchant",
+   "pages": [
+    {
+     "page": 8,
+     "img": "assets/planches/t4-p01.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 29,
+     "img": "assets/planches/t4-p22.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 40,
+     "img": "assets/planches/t4-p33.webp",
+     "w": 589,
+     "h": 834
+    }
+   ]
+  },
+  {
+   "num": 5,
+   "titre": "Badr et Uhud",
+   "sous_titre": "Des puits de Badr aux pentes du mont Uhud",
+   "periode": "623 à 625",
+   "chapitres": [
+    "Les nuits d'alerte",
+    "La qibla",
+    "La caravane",
+    "La veille",
+    "Badr",
+    "La nouvelle",
+    "Les captifs",
+    "L'année de la vengeance",
+    "Uhud",
+    "Après la bataille"
+   ],
+   "couleur": "#7A4E12",
+   "sombre": "#2E1C05",
+   "visuel": "deux armées face à face dans une plaine, au couchant",
+   "pages": [
+    {
+     "page": 8,
+     "img": "assets/planches/t5-p01.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 22,
+     "img": "assets/planches/t5-p15.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 39,
+     "img": "assets/planches/t5-p32.webp",
+     "w": 589,
+     "h": 834
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "titre": "Le Fossé et la Trêve",
+   "sous_titre": "Du fossé de Médine à la Kaaba retrouvée",
+   "periode": "626 à 629",
+   "chapitres": [
+    "Le rendez-vous",
+    "La noce et la rumeur",
+    "Salmân",
+    "Le fossé",
+    "Le siège",
+    "Le vent",
+    "Le rêve",
+    "La trêve",
+    "Abû Basîr",
+    "Khaybar",
+    "Les rois et le retour"
+   ],
+   "couleur": "#30475A",
+   "sombre": "#14212B",
+   "visuel": "un fossé sous l'orage, et le camp adverse emporté par le vent",
+   "pages": [
+    {
+     "page": 8,
+     "img": "assets/planches/t6-p01.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 20,
+     "img": "assets/planches/t6-p13.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 57,
+     "img": "assets/planches/t6-p48.webp",
+     "w": 589,
+     "h": 834
+    }
+   ]
+  },
+  {
+   "num": 7,
+   "titre": "La Victoire et l'Adieu",
+   "sous_titre": "Des dix mille feux à la plaine de 'Arafa",
+   "periode": "629 à 632",
+   "chapitres": [
+    "Mu'ta",
+    "La trêve rompue",
+    "Les feux",
+    "La Mecque",
+    "Hunayn",
+    "Tabûk",
+    "Les délégations",
+    "Le pèlerinage d'adieu",
+    "La maladie",
+    "Le Compagnon suprême"
+   ],
+   "couleur": "#5B1631",
+   "sombre": "#26080F",
+   "visuel": "une foule de dos autour de la Kaaba, pendant l'appel à la prière depuis son toit",
+   "pages": [
+    {
+     "page": 19,
+     "img": "assets/planches/t7-p12.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 27,
+     "img": "assets/planches/t7-p20.webp",
+     "w": 589,
+     "h": 834
+    },
+    {
+     "page": 47,
+     "img": "assets/planches/t7-p40.webp",
+     "w": 589,
+     "h": 834
+    }
+   ]
+  }
+ ],
+ "extrait": [
+  {
+   "img": "assets/planches/extrait-t1-1.webp",
+   "page": 8
+  },
+  {
+   "img": "assets/planches/extrait-t1-2.webp",
+   "page": 9
+  },
+  {
+   "img": "assets/planches/extrait-t1-3.webp",
+   "page": 10
+  },
+  {
+   "img": "assets/planches/extrait-t1-4.webp",
+   "page": 11
+  }
+ ]
+}

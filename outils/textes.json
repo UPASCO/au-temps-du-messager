@@ -1,0 +1,216 @@
+{
+ "hero": {
+  "surtitre": "Sept bandes dessinées, de l'année de l'Éléphant au pèlerinage d'adieu",
+  "titre": "Au temps du Messager ﷺ",
+  "sous_texte": "Racontée par un grand-père qui y était, à ses deux petits-enfants. Une histoire d'après les sources, à vivre en famille.",
+  "bouton_principal": "Voir le tome 1 sur Amazon",
+  "bouton_secondaire": "Feuilleter les premières pages",
+  "accroche": "La vie du Prophète ﷺ en bande dessinée, sans jamais le dessiner, racontée par un grand-père qui y était."
+ },
+ "promesse": [
+  {
+   "titre": "Le Prophète ﷺ jamais dessiné",
+   "texte": "Ni visage, ni silhouette, ni ombre, ni main. Il est raconté par les mots, comme ses compagnons l'ont décrit."
+  },
+  {
+   "titre": "D'après les sources",
+   "texte": "Le Coran d'abord, puis al-Bukhârî, Muslim, Ibn Hishâm et Ibn Kathîr. Les récits discutés sont signalés comme tels."
+  },
+  {
+   "titre": "Une vraie aventure en BD",
+   "texte": "Une armée et un éléphant, une grotte, un fossé, dix mille feux. Trois témoins inventés portent le récit, page après page."
+  }
+ ],
+ "serie": {
+  "titre": "Sept tomes, un seul voyage",
+  "paragraphes": [
+   "Tout commence vers 570, quand une armée et son éléphant marchent sur La Mecque. Tout s'achève en 632, dans la plaine de 'Arafa, au pèlerinage d'adieu. Entre les deux, sept tomes suivent la vie du Prophète ﷺ : l'orphelin devenu al-Amîn ﷺ, la grotte, les années de faim, l'exil, les batailles, le fossé, les dix mille feux.",
+   "Le récit est porté par trois témoins inventés. Grand-père Jamal raconte ce qu'il a vu, et Sami et sa petite sœur Leyna l'écoutent sur la terrasse. Ils grandissent de tome en tome : Sami est un enfant au tome 1, et il est grand-père à la dernière page du tome 7.",
+   "Chaque tome fait connaître une qualité du Prophète ﷺ par des faits sourcés. On passe de l'homme droit au tome 1 à la miséricorde au tome 7."
+  ]
+ },
+ "tomes": [
+  {
+   "num": 1,
+   "accroche": "Grand-père Jamal y était. Ce soir, il raconte.",
+   "resume": "Une armée et son éléphant marchent sur La Mecque, et le ciel se remplit d'oiseaux. Cette année-là naît un enfant ﷺ, orphelin, berger puis caravanier, que la ville appelle al-Amîn ﷺ, celui à qui on peut tout confier.",
+   "qualite": "L'homme droit, digne de confiance",
+   "moment": "Le ciel se remplit d'oiseaux devant l'éléphant"
+  },
+  {
+   "num": 2,
+   "accroche": "Un mot a suffi. Toute une ville a tremblé.",
+   "resume": "Une nuit de Ramadân, dans une grotte, un mot descend du ciel : « Lis ! » L'homme le plus honnête de La Mecque devient le Messager de Dieu ﷺ, et quand il faut parler à toute la ville, elle se déchire.",
+   "qualite": "Le courage de dire la vérité",
+   "moment": "Dans la grotte de Hirâ', un mot : « Lis ! »"
+  },
+  {
+   "num": 3,
+   "accroche": "Trois ans de faim. Et une lune fendue en deux.",
+   "resume": "Deux clans restent enfermés trois ans dans un vallon, sans rien pouvoir acheter ni vendre. Puis le Prophète ﷺ perd son oncle et son épouse, Tâ'if le chasse à coups de pierres, et vient une nuit comme il n'y en eut jamais d'autre.",
+   "qualite": "La patience et le pardon",
+   "moment": "Une lune fendue en deux au-dessus de La Mecque"
+  },
+  {
+   "num": 4,
+   "accroche": "Tout quitter. Et trouver une ville.",
+   "resume": "Au col de 'Aqaba, des hommes venus du nord donnent leur parole au Prophète ﷺ. Viennent alors les départs en cachette, une maison cernée, une grotte, cent chamelles promises, et une ville entière montée sur les toits.",
+   "qualite": "La loyauté et la simplicité",
+   "moment": "Une grotte, une toile d'araignée, des colombes"
+  },
+  {
+   "num": 5,
+   "accroche": "Trois cents contre mille. Et une colline à ne pas quitter.",
+   "resume": "Un peu plus de trois cents croyants font face à près de mille Mecquois, autour des puits de Badr. Un an plus tard, à Uhud, cinquante archers n'ont qu'un ordre : ne quitter leur colline sous aucun prétexte.",
+   "qualite": "Le chef qui sait écouter",
+   "moment": "Cinquante archers, une colline à ne pas quitter"
+  },
+  {
+   "num": 6,
+   "accroche": "Dix mille contre une ville. Et, entre eux, un fossé.",
+   "resume": "Dix mille hommes marchent sur Médine, et les croyants creusent un fossé dans le froid et la faim. Un an plus tard, des pèlerins sans intention de combat signent une trêve qui ressemble à une défaite, que le Coran appelle « une victoire éclatante ».",
+   "qualite": "La fidélité à la parole donnée",
+   "moment": "Un fossé creusé dans le froid et la faim"
+  },
+  {
+   "num": 7,
+   "accroche": "Dix mille feux. Un pardon. Un adieu.",
+   "resume": "Une trêve se brise en une nuit, et dix mille feux s'allument aux portes de La Mecque. Les idoles tombent, Bilâl appelle à la prière du haut de la Kaaba, et la ville attend son sort, jusqu'au pèlerinage d'adieu.",
+   "qualite": "La miséricorde et le pardon",
+   "moment": "Dix mille feux s'allument aux portes de La Mecque"
+  }
+ ],
+ "temoins": {
+  "titre": "Trois témoins inventés",
+  "intro": "Jamal, Sami et Leyna sont inventés, le livre le dit, et ils ne parlent jamais au Prophète ﷺ.",
+  "jamal": "Le conteur. Il y était, et ce soir il raconte.",
+  "sami": "Son petit-fils. Il veut tout savoir : enfant au tome 1, il est grand-père à la dernière page du tome 7.",
+  "leyna": "Sa petite sœur. Elle pose les questions que l'on se pose, et finit par raconter à son tour."
+ },
+ "respect": {
+  "titre": "Raconter avec respect",
+  "intro": "Raconter la vie du Prophète ﷺ est une grande responsabilité. Voici les règles que suivent les sept tomes, et que chaque parent peut vérifier page après page.",
+  "points": [
+   {
+    "titre": "Le Prophète ﷺ n'est jamais dessiné",
+    "texte": "Personne n'a fait son portrait de son vivant : ses compagnons l'ont décrit avec des mots. Le dessiner, ce serait inventer son visage. Il a aussi demandé qu'on ne l'élève pas plus haut que sa place : « Je ne suis que Son serviteur : dites le serviteur de Dieu et Son Messager. » (al-Bukhârî n° 3445). La grande majorité des savants demandent de ne pas le représenter."
+   },
+   {
+    "titre": "Qui d'autre n'est pas dessiné",
+    "texte": "Les autres prophètes, les anges et la famille proche du Prophète ﷺ ne sont pas dessinés non plus. Ses compagnons n'apparaissent que de dos, sous un capuchon. Aucune silhouette, aucune main, aucune ombre, aucun objet ni aucune lumière ne tient sa place."
+   },
+   {
+    "titre": "Le signe ﷺ",
+    "texte": "Il veut dire « que la paix et les bénédictions d'Allah soient sur lui ». Il suit chaque mention du Prophète ﷺ, comme dans les livres de Sîra."
+   },
+   {
+    "titre": "La basmala en ouverture",
+    "texte": "Chaque tome s'ouvre par « Bismillâh ar-Rahmân ar-Rahîm », Au nom de Dieu, le Tout Miséricordieux, le Très Miséricordieux. On commence par le nom de Dieu."
+   },
+   {
+    "titre": "Aucune parole inventée",
+    "texte": "Aucune parole ni aucun geste n'est prêté au Prophète ﷺ sans source, car lui faire dire ce qu'il n'a pas dit est une faute grave (al-Bukhârî n° 109). On l'appelait al-Amîn ﷺ, le digne de confiance (al-Bukhârî n° 4770)."
+   },
+   {
+    "titre": "Ce qui est inventé est dit inventé",
+    "texte": "Jamal, Sami et Leyna sont déclarés inventés et ne changent jamais l'Histoire. Trois sortes d'encadrés séparent les voix : le parchemin pour Jamal, le vert étoilé pour l'Histoire et sa référence, le bleu et or pour un verset du Coran."
+   }
+  ]
+ },
+ "sources": {
+  "titre": "D'où viennent les récits",
+  "intro": "Chaque récit a une origine, et le livre la donne. Les sources, dans l'ordre des siècles :",
+  "etapes": [
+   {
+    "date": "610 à 632",
+    "nom": "Le Coran",
+    "role": "Il passe avant tout le reste, et chaque verset cité porte sa sourate et son numéro."
+   },
+   {
+    "date": "VIIIe et IXe siècles",
+    "nom": "Ibn Ishâq et Ibn Hishâm",
+    "role": "Leur Sîra donne l'ordre des événements."
+   },
+   {
+    "date": "IXe siècle",
+    "nom": "al-Bukhârî et Muslim",
+    "role": "Leurs recueils de hadiths authentiques rapportent les paroles et les gestes du Prophète ﷺ. Les savants les placent juste après le Coran."
+   },
+   {
+    "date": "XIVe siècle",
+    "nom": "Ibn Kathîr",
+    "role": "Il permet de comparer les versions d'un même récit."
+   },
+   {
+    "date": "XXe siècle",
+    "nom": "Le Pr Akram Diyâ' al-'Umarî",
+    "role": "Historien, professeur à l'Université islamique de Médine. Son livre, La Sîra authentique, sert à vérifier les récits."
+   }
+  ],
+  "note": "Les récits discutés sont signalés comme tels, et les sources sont données page par page en fin de volume."
+ },
+ "dossier": {
+  "titre": "Le dossier de fin de volume",
+  "intro": "Chaque tome se termine par un dossier pour prolonger la lecture en famille.",
+  "elements": [
+   "Qui est qui : les personnes que l'on voit dans les images",
+   "Les plans : La Mecque, Médine, Badr, Uhud, le fossé",
+   "Le Coran dans ce tome : les versets cités, avec leur sourate",
+   "Un quiz et des questions à se poser en famille",
+   "La chronologie et le glossaire",
+   "Les sources, page par page, et l'origine des décors"
+  ]
+ },
+ "famille": {
+  "titre": "À lire ensemble",
+  "texte": "Un tome se lit à deux, un soir après l'autre, comme Jamal sur sa terrasse. Le dossier de fin propose des questions à se poser en famille. Elles aident à retrouver ce que le tome a montré du Prophète ﷺ : sa droiture, son courage, sa patience, sa loyauté, son écoute, sa parole tenue, sa miséricorde."
+ },
+ "auteur": {
+  "titre": "Pourquoi cette collection",
+  "texte": "Mes filles adorent les histoires, et les images les aident à se représenter le récit. J'ai voulu leur transmettre les passages clés de la Sîra dans un format plus ludique, sans rien inventer sur le Prophète ﷺ.",
+  "signature": "Nadir Echaara, auteur et père de trois enfants"
+ },
+ "faq": [
+  {
+   "q": "Le Prophète ﷺ est-il dessiné dans les BD ?",
+   "r": "Jamais, à aucun âge : ni visage, ni silhouette, ni main, ni ombre. Il est raconté par les mots, et les compagnons ne sont montrés que de dos."
+  },
+  {
+   "q": "D'où viennent les récits ?",
+   "r": "Du Coran d'abord, puis des hadiths d'al-Bukhârî et Muslim, de la Sîra d'Ibn Hishâm et d'Ibn Kathîr. Les sources sont données page par page en fin de volume."
+  },
+  {
+   "q": "Par quel tome commencer ?",
+   "r": "Par le tome 1, L'Enfant de La Mecque, qui s'ouvre vers 570 avec l'éléphant et présente Jamal, Sami et Leyna. Les tomes suivants avancent ensuite dans l'ordre de la vie du Prophète ﷺ."
+  },
+  {
+   "q": "Peut-on lire un tome sans les autres ?",
+   "r": "Oui, chaque tome couvre une période précise de la vie du Prophète ﷺ. Mais Jamal, Sami et Leyna grandissent d'un tome à l'autre : on les suit mieux en partant du premier."
+  },
+  {
+   "q": "Broché ou relié ?",
+   "r": "Le contenu est le même : 78 pages, dont 49 à 51 de bande dessinée en couleurs. Le broché est en grand format (21 × 29,7 cm), l'album relié en 21 × 28 cm, à 24,99 €."
+  },
+  {
+   "q": "Où acheter la collection ?",
+   "r": "Sur Amazon, tome par tome. Chaque bouton du site mène à la page Amazon du tome dès que son lien est en ligne."
+  },
+  {
+   "q": "Comment vous écrire ?",
+   "r": "Par courriel, à contact@autempsdumessager.com. Vous pouvez nous écrire pour une question sur un tome ou sur une source."
+  }
+ ],
+ "final": {
+  "titre": "Sept soirées avec grand-père Jamal",
+  "texte": "La première commence l'année de l'Éléphant.",
+  "bouton": "Voir le tome 1 sur Amazon"
+ },
+ "pied": {
+  "mention": "Au temps du Messager ﷺ, collection de bandes dessinées de Nadir Echaara, en français.",
+  "signe": "Le signe ﷺ veut dire « que la paix et les bénédictions d'Allah soient sur lui » et suit chaque mention du Prophète ﷺ."
+ },
+ "seo": {
+  "title": "Au temps du Messager ﷺ : la vie du Prophète ﷺ en BD",
+  "description": "La vie du Prophète ﷺ en 7 bandes dessinées, sans jamais le dessiner, d'après les sources. À lire en famille. En français, sur Amazon."
+ }
+}
