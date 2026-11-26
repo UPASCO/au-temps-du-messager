@@ -49,7 +49,7 @@
     }
     boite.appendChild(ligne);
     if (style !== "compact") {
-      boite.appendChild(el("p", { "class": "achat-note" }, l.relie ? "Album relié : 24,99 €. Même contenu en broché grand format." : "Broché grand format, 78 pages."));
+      boite.appendChild(el("p", { "class": "achat-note" }, l.relie ? "Album relié : 24,99 €. Même contenu en broché grand format." : "Broché grand format, " + (n === "7" ? "80" : "78") + " pages."));
     }
   });
 

@@ -69,7 +69,7 @@ ld = {
     "description": T["seo"]["description"],
     "author": {"@type": "Person", "name": "Nadir Echaara"},
     "hasPart": [{"@type": "Book", "position": t["num"], "name": t["titre"], "bookFormat": "https://schema.org/Hardcover",
-                 "numberOfPages": 78, "inLanguage": "fr", "author": {"@type": "Person", "name": "Nadir Echaara"}} for t in TOMES],
+                 "numberOfPages": 80 if t["num"] == 7 else 78, "inLanguage": "fr", "author": {"@type": "Person", "name": "Nadir Echaara"}} for t in TOMES],
 }
 faq_ld = {"@context": "https://schema.org", "@type": "FAQPage",
           "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["r"]}} for q in T["faq"]]}
